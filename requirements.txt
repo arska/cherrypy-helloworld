@@ -1,0 +1,6 @@
+cheroot==5.1.0
+CherryPy==10.1.0
+portend==1.8
+pytz==2016.10
+six==1.10.0
+tempora==1.6.1
