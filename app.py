@@ -10,4 +10,5 @@ class Root(object):
         return message
 
 if __name__ == '__main__':
-   cherrypy.quickstart(Root(), '/')
+    cherrypy.server.socket_host = '0.0.0.0'
+    cherrypy.quickstart(Root(), '/')
