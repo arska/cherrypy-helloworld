@@ -1,4 +1,4 @@
-cheroot==5.1.0
+cheroot==5.8.3
 CherryPy==11.1.0
 portend==2.2
 pytz==2016.10
