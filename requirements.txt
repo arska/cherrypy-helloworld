@@ -3,4 +3,4 @@ CherryPy==11.1.0
 portend==2.2
 pytz==2016.10
 six==1.11.0
-tempora==1.6.1
+tempora==1.13
